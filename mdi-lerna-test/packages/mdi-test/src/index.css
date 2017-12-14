@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* Material Design Icons */
+@import '~mdi/css/materialdesignicons.min.css';
